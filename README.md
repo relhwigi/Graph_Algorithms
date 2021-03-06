@@ -1,5 +1,5 @@
 # Graph_Algorithms
-This program takes a road data in the form country.osm.graph and country.osm.xyz and answers the following graph questions:
+This program takes road data in the form country.osm.graph and country.osm.xyz and answers the following graph questions:
 1. Order and size of graph.
 2. Largest Degree of graph
 3. Avergae Degree of graph
